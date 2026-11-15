@@ -1,0 +1,35 @@
+:root {
+  color-scheme: light;
+  color: #38291e;
+  background: #faf2e2;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem;
+}
+
+h1, h2 {
+  line-height: 1.2;
+}
+
+h2 {
+  margin-top: 1.75rem;
+  font-size: 1.25rem;
+}
+
+a, .brand {
+  color: #97380a;
+}
+
+.brand {
+  margin: 0;
+  font-weight: 700;
+}
