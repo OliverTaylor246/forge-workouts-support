@@ -1,7 +1,7 @@
 :root {
-  color-scheme: light;
-  color: #38291e;
-  background: #faf2e2;
+  color-scheme: dark;
+  color: #e8ebef;
+  background: #090a0d;
   font-family: system-ui, sans-serif;
   line-height: 1.6;
 }
@@ -26,7 +26,7 @@ h2 {
 }
 
 a, .brand {
-  color: #97380a;
+  color: #cdd4de;
 }
 
 .brand {
